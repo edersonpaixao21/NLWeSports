@@ -1,4 +1,3 @@
-p align="center">
 <h1>
  NLW eSports
 </h1>
