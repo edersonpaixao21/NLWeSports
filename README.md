@@ -8,7 +8,7 @@ p align="center">
 
 </br>
 
-O projeto tem como objetivo mostar jogos e sstreamers favoritos.
+O projeto tem como objetivo mostar jogos e streamers favoritos.
 
 
 ## Preview
