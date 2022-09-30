@@ -4,7 +4,7 @@
 </p>
 
 ### 🛠  Descrição
-
+ 
 </br>
 
 O projeto tem como objetivo mostar jogos e streamers favoritos.
